@@ -1,0 +1,10 @@
+D:\Projekty\Visual\MouseAPI\MouseAPI\bin\Debug\MouseAPI.exe.config
+D:\Projekty\Visual\MouseAPI\MouseAPI\bin\Debug\MouseAPI.exe
+D:\Projekty\Visual\MouseAPI\MouseAPI\bin\Debug\MouseAPI.pdb
+D:\Projekty\Visual\MouseAPI\MouseAPI\obj\Debug\MouseAPI.csprojResolveAssemblyReference.cache
+D:\Projekty\Visual\MouseAPI\MouseAPI\obj\Debug\MouseAPI.MainWindow.resources
+D:\Projekty\Visual\MouseAPI\MouseAPI\obj\Debug\MouseAPI.Properties.Resources.resources
+D:\Projekty\Visual\MouseAPI\MouseAPI\obj\Debug\MouseAPI.csproj.GenerateResource.cache
+D:\Projekty\Visual\MouseAPI\MouseAPI\obj\Debug\MouseAPI.csproj.CoreCompileInputs.cache
+D:\Projekty\Visual\MouseAPI\MouseAPI\obj\Debug\MouseAPI.exe
+D:\Projekty\Visual\MouseAPI\MouseAPI\obj\Debug\MouseAPI.pdb
